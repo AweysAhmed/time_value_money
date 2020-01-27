@@ -13,7 +13,7 @@ module TimeValueMoney
 
 
 
-def self.present_value(f_value, interest, years)
+def self.present_value(interest, years, f_value)
   interestPlusOne = 1 + (interest / 100.0)
   pv = f_value / (interestPlusOne**years)
   return pv.round(2)
