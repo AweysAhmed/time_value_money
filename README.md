@@ -1,5 +1,7 @@
 # TimeValueMoney
 
+This Gem will make it easer to calculate the Prevent Value of an asset and the future Value of an asset.
+
 ## Installation
 
 Add this line to your application's Gemfile:
