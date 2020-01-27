@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Aweys Ahmed"]
   spec.email         = ["aweys.n.ahmed@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
+  spec.summary       = %q{This Gem will allow you to calculate the Future value of an asset or the present value required to reach a future value}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
