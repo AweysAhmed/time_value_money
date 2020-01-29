@@ -24,9 +24,11 @@ This Gem will allow you to calculate the Future value of an asset or the present
 
 The functions are: 
 
+```ruby
 future_value(interest, years, cost)
 
 present_value(interest, years, f_value)
+```
 
 ## Development
 
